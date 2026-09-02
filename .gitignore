@@ -1,0 +1,7 @@
+*.zip
+*.7z
+*.rar
+release/
+stage/
+.DS_Store
+Thumbs.db

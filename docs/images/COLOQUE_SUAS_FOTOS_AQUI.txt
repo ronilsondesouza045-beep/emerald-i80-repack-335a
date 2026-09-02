@@ -1,0 +1,2 @@
+﻿Coloque aqui screenshots .png/.jpg do servidor antes de publicar.
+Depois rode novamente o publicador ou faca commit das imagens pelo GitHub Desktop.
